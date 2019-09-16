@@ -1,0 +1,6 @@
+framework module WXCode {
+  umbrella header "WXCode-umbrella.h"
+
+  export *
+  module * { export * }
+}
