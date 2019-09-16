@@ -1,0 +1,6 @@
+use_frameworks!
+target 'WXCode_Tests' do
+  pod 'WXCode', :path => '../'
+  
+  
+end
